@@ -1,0 +1,2 @@
+# EdinetAPIDatabase
+EdinetAPIDatabase
